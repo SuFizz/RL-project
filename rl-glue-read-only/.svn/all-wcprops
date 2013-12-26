@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/1017/trunk
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1006/trunk/configure.ac
+END
+authors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/833/trunk/authors.xml
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/823/trunk/bootstrap.sh
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/880/trunk/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/986/trunk/ChangeLog
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/984/trunk/Makefile.am
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/980/trunk/README.txt
+END
+LICENSE-2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/928/trunk/LICENSE-2.0.txt
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1007/trunk/aclocal.m4
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1007/trunk/configure
+END
+HOWTORELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/835/trunk/HOWTORELEASE
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1006/trunk/Makefile.in
+END

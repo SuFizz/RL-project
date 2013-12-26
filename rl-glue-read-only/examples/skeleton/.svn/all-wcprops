@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/980/trunk/examples/skeleton
+END
+SkeletonEnvironment.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/947/trunk/examples/skeleton/SkeletonEnvironment.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/977/trunk/examples/skeleton/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/977/trunk/examples/skeleton/Makefile
+END
+SkeletonAgent.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/980/trunk/examples/skeleton/SkeletonAgent.c
+END
+SkeletonExperiment.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/914/trunk/examples/skeleton/SkeletonExperiment.c
+END

@@ -1,0 +1,11 @@
+CYAN	-	UCB IMPROVED
+RED		-	UCB 1
+BLACK	- 	EPSILON GREEDY
+GREEN	-	SOFT MAX
+
+It is noticed that UCB IMPROVED performs the best
+UCB1 performs next best, worser than UCB IMPROVED
+EPSILON GREEDY performs next best, worser than UCB1
+SOFT MAX performs worst
+
+This is because the regret associated with each of the things increases or reduces as the case maybe and this causes the variations in performance.

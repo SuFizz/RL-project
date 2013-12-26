@@ -1,0 +1,8 @@
+p = numpy.array(percent_optimal)
+ee = numpy.array([numpy.average(p[:,i]) for i in range(19998)])
+plot(ee*100)
+xlabel("No of Iterations")
+ylabel("Percentage Optimality")
+title("20 bandits - 5 sub channels - Q learning")
+show()
+

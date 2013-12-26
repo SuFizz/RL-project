@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/1010/trunk/docs
+END
+TechnicalManual.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1010/trunk/docs/TechnicalManual.pdf
+END
+makeDocs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/864/trunk/docs/makeDocs.bash
+END
+TechnicalManual.tex
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1008/trunk/docs/TechnicalManual.tex
+END
+Glue-Overview.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1010/trunk/docs/Glue-Overview.pdf
+END
+Glue-Overview.tex
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1008/trunk/docs/Glue-Overview.tex
+END

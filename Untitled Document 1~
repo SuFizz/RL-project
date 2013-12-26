@@ -1,0 +1,5 @@
+for i in range(100):
+	f.write('\n')
+	for j in range(19998):
+		f.write(str(p[i][j]))
+		f.write(',')

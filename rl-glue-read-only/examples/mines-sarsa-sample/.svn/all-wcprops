@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1009/trunk/projects/packages/examples/mines-sarsa-c-directcompile
+END
+SampleMinesEnvironment.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1007/trunk/projects/packages/examples/mines-sarsa-c-directcompile/SampleMinesEnvironment.c
+END
+SampleExperiment.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1007/trunk/projects/packages/examples/mines-sarsa-c-directcompile/SampleExperiment.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1008/trunk/projects/packages/examples/mines-sarsa-c-directcompile/README.txt
+END
+SampleSarsaAgent.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1007/trunk/projects/packages/examples/mines-sarsa-c-directcompile/SampleSarsaAgent.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1009/trunk/projects/packages/examples/mines-sarsa-c-directcompile/Makefile
+END
